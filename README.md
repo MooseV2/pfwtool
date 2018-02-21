@@ -4,7 +4,7 @@ Based on [svenpeter42's code](https://github.com/svenpeter42/pfwtool). Made for 
 # Instructions
 1. Use Google Chrome. It will probably work in Firefox, but I've not tested it. It does not work Safari. If you ask me about Internet Explorer, I'll probably just laugh at you.
 2. Download the Pentax K-30 firmware file from ricoh-imaging. You'll want version 1.05. I assume that you're doing because you're interested in PHDK. In that case, you NEED TO USE 1.05.
-3. Go to http://axiondev.net/projects/pfwtool_html/
+3. Go to https://desouza.li/projects/pfwtool_html/
 4.  Drag the file `fwdc215b.bin` into the web page's drop zone.
 5. In a couple seconds, the decrypted file will be transferred to your downloads folder.
 6. Verify that the md5 checksum of the decrypted file is **0afe2524251009b97639316edfe1c410**.
